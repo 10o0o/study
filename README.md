@@ -1,2 +1,3 @@
 # study
-study log
+
+학습한 내용을 카테고리별로 MD파일로 정리
